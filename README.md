@@ -5,7 +5,7 @@ A collection of resources for aws lambda
 
 | Name                      | Description                                            |
 |---------------------------|--------------------------------------------------------|
-|lambda-job                 |Use AWS Lambda to run scalable server-side code         |
+|lambda-jobs                 |Use AWS Lambda to run scalable server-side code         |
 |lambda-local               |Commandline tool to run Lambda functions on your local  |
 |lambdaws                   |AWS lambda functions made easy                          |
 |node-aws-lambda-deploy     |Deploy Lambda function(s) to AWS                        |
